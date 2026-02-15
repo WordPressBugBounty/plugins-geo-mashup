@@ -3,7 +3,7 @@
         'name' => 'cyberhobo/wordpress-geo-mashup',
         'pretty_version' => '1.13.18',
         'version' => '1.13.18.0',
-        'reference' => '0b1175108a7f4429da6a090bb6525254effd5eb6',
+        'reference' => '9305999a20b89e7ac45e070acf55cb709112103d',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'cyberhobo/wordpress-geo-mashup' => array(
             'pretty_version' => '1.13.18',
             'version' => '1.13.18.0',
-            'reference' => '0b1175108a7f4429da6a090bb6525254effd5eb6',
+            'reference' => '9305999a20b89e7ac45e070acf55cb709112103d',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

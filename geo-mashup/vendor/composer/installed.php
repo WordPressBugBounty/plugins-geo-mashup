@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'cyberhobo/wordpress-geo-mashup',
-        'pretty_version' => '1.13.18',
-        'version' => '1.13.18.0',
-        'reference' => '9305999a20b89e7ac45e070acf55cb709112103d',
+        'pretty_version' => '1.13.19',
+        'version' => '1.13.19.0',
+        'reference' => 'dc9a83950897592ee664acc7dea71600e68ea932',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'cyberhobo/wordpress-geo-mashup' => array(
-            'pretty_version' => '1.13.18',
-            'version' => '1.13.18.0',
-            'reference' => '9305999a20b89e7ac45e070acf55cb709112103d',
+            'pretty_version' => '1.13.19',
+            'version' => '1.13.19.0',
+            'reference' => 'dc9a83950897592ee664acc7dea71600e68ea932',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
